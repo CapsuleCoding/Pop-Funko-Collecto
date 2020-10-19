@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # Pop-Funko-Collecto
+# PopFunkoCollecto
